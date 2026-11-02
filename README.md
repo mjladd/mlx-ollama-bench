@@ -1,6 +1,5 @@
 # MLX vs Ollama benchmark
 
-Plan: `mjwiki/notebooks/todos/in_prog/mlx-vs-ollama-benchmark-plan.md`.
 
 ## Setup
 
